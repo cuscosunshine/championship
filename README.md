@@ -1,2 +1,2 @@
 # championship
-sist to develop championship online with laravel
+sist. to develop information about a championship soccer  with laravel
